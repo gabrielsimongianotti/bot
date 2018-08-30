@@ -1,0 +1,19 @@
+{
+  "name": "mqtt_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "knex": "^0.15.2",
+    "mqtt": "^2.18.7",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
